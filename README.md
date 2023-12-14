@@ -25,7 +25,7 @@ This is a project of a simple user management system, capable of storing phones,
 │       ├── login
 │       │   └── view_index.php
 │       └── users
-│    		├── view_index.php
+│           ├── view_index.php
 │           ├── view_get.php
 │           ├── view_save.php
 │           ├── view_save_address.php
